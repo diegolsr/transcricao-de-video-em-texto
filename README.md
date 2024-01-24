@@ -20,7 +20,8 @@ pip install pydub
 ```
 obs. caso você esteja rodando na sua maquina, pode dar erro e você precise instalar esse pacote ffmpef, basta instalar:
 
-`sudo apt install ffmpeg`
+linux: `sudo apt install ffmpeg`
+windows: `choco install ffmpeg`
 
 
 2. Crie um arquivo index.py e importe as bibliotecas :
